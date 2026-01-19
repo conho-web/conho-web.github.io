@@ -8,7 +8,7 @@ export const resumeData = {
     {
       icon: 'linkedin',
       text: 'LinkedIn',
-      href: '#'
+      href: 'https://www.linkedin.com/in/anton-nikonchuk-2199323a3/'
     },
     {
       icon: 'location',
@@ -18,7 +18,7 @@ export const resumeData = {
     {
       icon: 'github',
       text: 'GitHub',
-      href: '#'
+      href: 'https://github.com/conho-web'
     },
     {
       icon: 'phone',
@@ -28,7 +28,7 @@ export const resumeData = {
     {
       icon: 'telegram',
       text: 'Telegram',
-      href: '#'
+      href: 'https://t.me/conho_web'
     },
     {
       icon: 'email',
@@ -83,37 +83,37 @@ export const resumeData = {
       title: 'Technologies',
       skills: [
         { name: 'HTML5', percentage: 90 },
-        { name: 'CSS3', percentage: 70 },
+        { name: 'CSS3', percentage: 75 },
         { name: 'SCSS', percentage: 75 },
         { name: 'JavaScript (ES6)', percentage: 70 },
-        { name: 'TypeScript', percentage: 5 },
+        { name: 'TypeScript', percentage: 10 },
         { name: 'Vue 2/3', percentage: 90 },
-        { name: 'Vue Router', percentage: 80 },
+        { name: 'Vue Router', percentage: 90 },
         { name: 'Vuex', percentage: 90 },
         { name: 'Pinia', percentage: 7 },
         { name: 'React', percentage: 6 },
-        { name: 'REST API', percentage: 60 },
-        { name: 'WebSockets', percentage: 10 },
-        { name: 'ESLint/Prettier', percentage: 10 },
-        { name: 'Git', percentage: 10 },
-        { name: 'CI/CD', percentage: 45 }
+        { name: 'REST API', percentage: 55 },
+        { name: 'WebSockets', percentage: 60 },
+        { name: 'ESLint/Prettier', percentage: 70 },
+        { name: 'Git', percentage: 60 },
+        { name: 'CI/CD', percentage: 60 }
       ]
     },
     {
       title: 'Tools',
       skills: [
-        { name: 'WebStorm', percentage: 10 },
-        { name: 'VS Code', percentage: 10 },
-        { name: 'Windows', percentage: 10 },
-        { name: 'Linux', percentage: 10 },
-        { name: 'Mac OS', percentage: 10 },
-        { name: 'Figma', percentage: 10 },
-        { name: 'Chrome Devtools', percentage: 10 },
-        { name: 'Github', percentage: 10 },
-        { name: 'Gitlab', percentage: 10 },
-        { name: 'Gitea', percentage: 10 },
-        { name: 'Postman', percentage: 10 },
-        { name: 'Swagger', percentage: 10 }
+        { name: 'WebStorm', percentage: 70 },
+        { name: 'VS Code', percentage: 90 },
+        { name: 'Windows', percentage: 95 },
+        { name: 'Linux', percentage: 60 },
+        { name: 'Mac OS', percentage: 90 },
+        { name: 'Figma', percentage: 95 },
+        { name: 'Chrome Devtools', percentage: 90 },
+        { name: 'Github', percentage: 80 },
+        { name: 'Gitlab', percentage: 60 },
+        { name: 'Gitea', percentage: 70 },
+        { name: 'Postman', percentage: 60 },
+        { name: 'Swagger', percentage: 80 }
       ]
     }
   ],
